@@ -27,7 +27,7 @@ body{
     font-family: 'Material Symbols Outlined';
     font-weight: normal;
     font-style: normal;
-    font-size: px;
+    font-size: 25px;
     line-height: 1;
     letter-spacing: normal;
     text-transform: none;
@@ -49,15 +49,19 @@ body{
 }
 .mainspan{
     display: flex;
+    /* justify-content: center;
+    align-items: center; */
 
 }
-
-.spn2{
-    padding-top: 3px;
+.spn1{
+    padding-top: 5px;
+}
+.spn22{
+    padding-top: 6px;
     font-weight: bolder;
 }
 .now22{
-    padding-top: 10px;
+    padding-top: 5px;
 }
 .firstpage{
     background-color: #f89cab;
